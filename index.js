@@ -157,7 +157,6 @@ function akan(){
     var dd;
     var f = ['Abena', 'Akua', 'Yaa' , 'Afua' , 'Amma', 'Akosua' , 'Adwoa'];
     var m = ['Kwabena', 'Kwaku', 'Yao' , 'Kofi', 'Kwame' , 'Kwasi' , 'Kwadwo'];
-    /*
     if(dayOfTheWeek===0){
         dd="Tuesday";
         if(gender==="Female"){
@@ -220,5 +219,5 @@ function akan(){
         else if(gender==="Male"){
             document.getElementById("name").innerHTML=m[dayOfTheWeek];
         }
-    }*/
+    }
 }
