@@ -154,10 +154,10 @@ function akan(){
         default:
         console.log("Wrong year entry");
     }
-    /*
     var dd;
     var f = ['Abena', 'Akua', 'Yaa' , 'Afua' , 'Amma', 'Akosua' , 'Adwoa'];
     var m = ['Kwabena', 'Kwaku', 'Yao' , 'Kofi', 'Kwame' , 'Kwasi' , 'Kwadwo'];
+    /*
     if(dayOfTheWeek===0){
         dd="Tuesday";
         if(gender==="Female"){
