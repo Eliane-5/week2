@@ -7,13 +7,14 @@ function akan(){
     console.log(month);
     var year = date.getFullYear();
     console.log(year);
-    /*var gender = document.getElementById("choice").value;
+    var gender = document.getElementById("choice").value;
     if(gender.checked){
         var gende = "Female";
     }
     else{
         var gende = "Male";
     }
+    /*
     var yy = parseInt(year.toString().slice(2,4));
     var century = Math.ceil(year/100);
     var yearCode = (yy+parseInt(yy/4))%7;
