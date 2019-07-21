@@ -1,0 +1,33 @@
+/*.custom-select{
+    margin:10px
+}
+#all{
+    border:0px solid black;
+    padding:35px;
+    margin:auto;
+    background-color: whitesmoke;
+    font-family: 'Josefin Sans';
+    font-size: 25px;
+}
+h1 {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+h4,h5,h2{
+    text-decoration: underline;
+}
+#display , h2{
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+}
+.jumbotron{
+    background-color: whitesmoke;
+    margin-bottom: auto;
+    border-radius: 0;
+}
+#name{
+    text-decoration: underline;
+}
