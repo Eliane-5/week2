@@ -118,7 +118,6 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
-        /*
         case 20 : // century code = 6
         if(month===1 || month===10 )//jan and oct code=0
         {
@@ -155,6 +154,7 @@ function akan(){
         default:
         console.log("Wrong year entry");
     }
+    /*
     var dd;
     var f = ['Abena', 'Akua', 'Yaa' , 'Afua' , 'Amma', 'Akosua' , 'Adwoa'];
     var m = ['Kwabena', 'Kwaku', 'Yao' , 'Kofi', 'Kwame' , 'Kwasi' , 'Kwadwo'];
