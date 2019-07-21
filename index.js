@@ -85,7 +85,6 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
-        /*
         case 19 : // century code = 0
         if(month===1 || month===10 )//jan and oct code=0
         {
@@ -119,6 +118,7 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
+        /*
         case 20 : // century code = 6
         if(month===1 || month===10 )//jan and oct code=0
         {
