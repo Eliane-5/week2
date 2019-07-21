@@ -14,7 +14,6 @@ function akan(){
     else{
         var gende = "Male";
     }
-    /*
     var yy = parseInt(year.toString().slice(2,4));
     var century = Math.ceil(year/100);
     var yearCode = (yy+parseInt(yy/4))%7;
@@ -53,6 +52,7 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
+        /*
         case 18 , 22: // century code = 2
         if(month===1 || month===10 )//jan and oct code=0
         {
