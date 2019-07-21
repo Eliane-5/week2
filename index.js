@@ -52,8 +52,7 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
-        /*
-        case 18 , 22: // century code = 2
+        case 18 : // century code = 2
         if(month===1 || month===10 )//jan and oct code=0
         {
             dayOfTheWeek = (yearCode + 0 + 2 + day)%7;
@@ -86,6 +85,7 @@ function akan(){
             alert("Wrong month entry!");
         }
         break;
+        /*
         case 19 : // century code = 0
         if(month===1 || month===10 )//jan and oct code=0
         {
